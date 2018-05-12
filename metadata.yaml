@@ -1,10 +1,16 @@
 _repo: Wainamoinen-Lyriskt-forsok-i-tre-akter_50263
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brakel, G. A.
     gutenberg_agent_id: '45780'
     url: http://www.gutenberg.org/2009/agents/45780
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50263#Wainamoinen-Lyriskt-forsok-i-tre-akter
 gutenberg_issued: '2015-10-20'
 gutenberg_type: Text
 identifiers:
